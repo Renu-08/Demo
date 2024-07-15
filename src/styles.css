@@ -1,0 +1,95 @@
+/* styles.css */
+.chat-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .message-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .message {
+    padding: 10px;
+    border-radius: 5px;
+    max-width: 70%;
+  }
+  
+  .user-message {
+    align-self: flex-end;
+    background-color: #e2f7cb;
+  }
+  
+  .bot-message {
+    align-self: flex-start;
+    background-color: #f0f0f0;
+  }
+  
+  .input-container {
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  
+  .input-box {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .send-button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  /* styles.css */
+
+/* Message container styles */
+.message-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  /* Individual message styles */
+  .message {
+    display: flex;
+    align-items: flex-start;
+    max-width: 70%;
+    margin-bottom: 10px;
+  }
+  
+  /* User message styles */
+  .user-message {
+    align-self: flex-end;
+    background-color: #e2f7cb;
+  }
+  
+  /* Bot message styles */
+  .bot-message {
+    align-self: flex-start;
+    background-color: #f0f0f0;
+  }
+  
+  /* Avatar styles */
+  .avatar {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 10px;
+  }
+  
