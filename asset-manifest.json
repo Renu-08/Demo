@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Renu-08/Demo/static/css/main.07782abb.css",
-    "main.js": "/Renu-08/Demo/static/js/main.d05685eb.js",
-    "static/js/453.78b945df.chunk.js": "/Renu-08/Demo/static/js/453.78b945df.chunk.js",
-    "static/media/chat-bot.png": "/Renu-08/Demo/static/media/chat-bot.f9c996673d444a37fb7f.png",
-    "index.html": "/Renu-08/Demo/index.html",
-    "main.07782abb.css.map": "/Renu-08/Demo/static/css/main.07782abb.css.map",
-    "main.d05685eb.js.map": "/Renu-08/Demo/static/js/main.d05685eb.js.map",
-    "453.78b945df.chunk.js.map": "/Renu-08/Demo/static/js/453.78b945df.chunk.js.map"
+    "main.css": "/Demo/static/css/main.07782abb.css",
+    "main.js": "/Demo/static/js/main.36bcbf47.js",
+    "static/js/453.78b945df.chunk.js": "/Demo/static/js/453.78b945df.chunk.js",
+    "static/media/chat-bot.png": "/Demo/static/media/chat-bot.f9c996673d444a37fb7f.png",
+    "index.html": "/Demo/index.html",
+    "main.07782abb.css.map": "/Demo/static/css/main.07782abb.css.map",
+    "main.36bcbf47.js.map": "/Demo/static/js/main.36bcbf47.js.map",
+    "453.78b945df.chunk.js.map": "/Demo/static/js/453.78b945df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07782abb.css",
-    "static/js/main.d05685eb.js"
+    "static/js/main.36bcbf47.js"
   ]
 }
