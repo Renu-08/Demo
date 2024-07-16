@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/github.io/Demo.github/static/css/main.07782abb.css",
-    "main.js": "/github.io/Demo.github/static/js/main.f0cf176e.js",
-    "static/js/453.78b945df.chunk.js": "/github.io/Demo.github/static/js/453.78b945df.chunk.js",
-    "static/media/chat-bot.png": "/github.io/Demo.github/static/media/chat-bot.f9c996673d444a37fb7f.png",
-    "index.html": "/github.io/Demo.github/index.html",
-    "main.07782abb.css.map": "/github.io/Demo.github/static/css/main.07782abb.css.map",
-    "main.f0cf176e.js.map": "/github.io/Demo.github/static/js/main.f0cf176e.js.map",
-    "453.78b945df.chunk.js.map": "/github.io/Demo.github/static/js/453.78b945df.chunk.js.map"
+    "main.css": "/Renu-08/Demo/static/css/main.07782abb.css",
+    "main.js": "/Renu-08/Demo/static/js/main.d05685eb.js",
+    "static/js/453.78b945df.chunk.js": "/Renu-08/Demo/static/js/453.78b945df.chunk.js",
+    "static/media/chat-bot.png": "/Renu-08/Demo/static/media/chat-bot.f9c996673d444a37fb7f.png",
+    "index.html": "/Renu-08/Demo/index.html",
+    "main.07782abb.css.map": "/Renu-08/Demo/static/css/main.07782abb.css.map",
+    "main.d05685eb.js.map": "/Renu-08/Demo/static/js/main.d05685eb.js.map",
+    "453.78b945df.chunk.js.map": "/Renu-08/Demo/static/js/453.78b945df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07782abb.css",
-    "static/js/main.f0cf176e.js"
+    "static/js/main.d05685eb.js"
   ]
 }
